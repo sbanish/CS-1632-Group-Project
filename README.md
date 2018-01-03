@@ -1,3 +1,8 @@
+# Group Project
+This project was a part of my software quality assurance. We built a server version of the game "Battlefield."
+
+We focused on sprint planning, software development, and quality assurance testing.
+
 # How to build
 
 You can build this project one at the command line with Apache Ant
